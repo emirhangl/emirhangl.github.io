@@ -15,6 +15,9 @@ defaults:
     values:
       layout: "post"
 
+collections:
+  - external_feed
+
 #topics:
 #  - name: Selenium
 #   web_url: https://github.com/topics/css
