@@ -265,8 +265,10 @@ DEPENDENCIES
   feedjira
   github-pages
   jekyll-display-medium-posts
+  jekyll-feed
   jekyll-github-metadata
   jekyll-octicons
+  jekyll-seo-tag
 
 BUNDLED WITH
    2.0.1

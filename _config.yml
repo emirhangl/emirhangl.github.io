@@ -20,16 +20,17 @@ defaults:
 
 collections:
   - medium_posts
+  - external_feed
 
-#topics:
-#  - name: Selenium
-#   web_url: https://github.com/topics/css
-#    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+topics:
+  - name: Medium (emirhangul)
+    web_url: https://medium.com/@emirhangul
+    image_url: https://pbs.twimg.com/profile_images/900033008685666305/c6Q38U35_400x400.png
 
-#  - name: Test Automation
-#    web_url: https://github.com/topics/css
-#    image_url: https://www.spritecloud.com/wp-content/uploads/2014/03/ta_infographics.png
+  - name: LinkedIn (emirhangl0101)
+    web_url: https://www.linkedin.com/in/emirhangl0101/
+    image_url: https://www.atec.com.tr/wp-content/uploads/2018/05/linkedin-300x300.png
 
-#  - name: Sass
-#    web_url: https://github.com/topics/sass
-#    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: SW Test Academy 
+    web_url: https://www.swtestacademy.com/author/emirhangul/
+    image_url: https://avatars2.githubusercontent.com/u/13996767?s=460&v=4
