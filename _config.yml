@@ -15,8 +15,11 @@ defaults:
     values:
       layout: "post"
 
+#collections:
+ # - external_feed
+
 collections:
-  - external_feed
+  - medium_posts
 
 #topics:
 #  - name: Selenium
